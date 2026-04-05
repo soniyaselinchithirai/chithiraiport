@@ -1,0 +1,122 @@
+.home {
+    background-color: var(--bg-home);
+    position: relative;
+    overflow: hidden;
+}
+
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 4rem;
+    position: relative;
+    z-index: 10;
+}
+
+.home-content {
+    flex: 1;
+    max-width: 600px;
+}
+
+.home-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-placeholder {
+    width: 380px;
+    height: 380px;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.4);
+    border: 8px solid white;
+    box-shadow: var(--card-shadow);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--text-heading);
+    font-weight: 500;
+    font-family: var(--font-heading);
+    position: relative;
+    overflow: hidden;
+    transform: rotate(3deg);
+    transition: transform 0.4s ease;
+}
+
+.profile-placeholder:hover {
+    transform: rotate(0deg) scale(1.02);
+}
+
+.profile-placeholder img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.name {
+    font-size: clamp(3rem, 6vw, 4.5rem);
+    font-weight: 800;
+    color: var(--text-heading);
+    margin-bottom: 0.5rem;
+    line-height: 1.1;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--primary); /* slightly lighter accents */
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
+}
+
+.description {
+    color: var(--text-dark);
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 2.5rem;
+}
+
+.blob {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(80px);
+    z-index: 1;
+    opacity: 0.6;
+}
+
+.blob-1 {
+    top: -10%;
+    right: -5%;
+    width: 400px;
+    height: 400px;
+    background: #DDF2D1; /* blend with green */
+}
+
+.blob-2 {
+    bottom: -10%;
+    left: -10%;
+    width: 500px;
+    height: 500px;
+    background: #FFD1DC; /* blend with pink */
+}
+
+@media (max-width: 900px) {
+    .home-container {
+        flex-direction: column-reverse;
+        text-align: center;
+        gap: 3rem;
+    }
+    .home-cta {
+        justify-content: center;
+    }
+    .profile-placeholder {
+        width: 300px;
+        height: 300px;
+    }
+}
+@media (max-width: 500px) {
+    .home-cta {
+        flex-direction: column;
+    }
+}

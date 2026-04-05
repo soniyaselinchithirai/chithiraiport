@@ -1,0 +1,82 @@
+SONIYA SELIN CHITHIRAI
+chithiraisoniyaselin@gmail.com
+ 
+8074600792
+ 
+linkedin.com/in/chithirai-soniya-selin
+ 
+github.com/soniyaselinchithirai
+ 
+Education
+Bachelor of Technology In AIML
+Kamala Institute Of Technology and Science
+Expected Graduation - 2027
+CGPA:8.82
+Intermediate-MPC
+SR Junior College Board of Intermediate
+2021-2023
+Marks-944
+SSC
+Legend High School SSC Board
+2021
+GPA:10.0
+Skills
+Programming Languages
+Python, C
+Web Technologies
+HTML5, CSS3, JavaScript
+Databases
+SQL, MYSQL
+Tools & Platforms
+Git, GitHub, VS Code, Jupyter Notebook
+Language
+English
+Tamil
+Telugu
+Hindi
+Certificates
+Juniper Networks Internship Certificate
+Google Android Internship Certificate
+Google AI-ML Virtual Internship
+Fundamentals of Graphic Designing 
+Certificate-(Coursera)
+Trinity Hack-2K26 Hackathon Certificate
+IEEEXTRM Hackathon Certificate
+About Me
+AIML student passionate about creating intelligent and visually 
+engaging digital experiences. Combines machine learning knowledge 
+with UI/UX and graphic design skills to build impactful, user-focused 
+solutions. Strong communicator and team player with a focus on 
+problem-solving and innovation.
+Virtual Internships
+Google Android Developer Intern
+•Developed basic Android applications using Java/ Kotlin and 
+Android Studio
+•Learned UI design, app development concepts, and debugging 
+through hands-on tasks
+Juniper Networks Virtual intern
+•Learned basics of networking concepts such as routing, switching, 
+and network security
+•Completed practical tasks and simulations to understand real- 
+world network operations and problem-solving
+Google AI/ML Virtual Intern
+•Learned fundamentals of machine learning concepts such as data 
+preprocessing, model building, and evaluation
+•Worked on basic ML tasks and projects using Python and relevant 
+libraries
+Projects
+-Organic Connect Website
+•Developed a web platform connecting farmers directly with 
+customers to promote organic products without intermediaries
+•Designed a user-friendly interface to enable easy product browsing 
+and purchasing
+-Vision Crop Al
+•Developed an Al-based system to detect crop diseases using image 
+processing techniques
+•Built and trained a machine learning model for accurate disease 
+prediction
+-Library Management System
+•Built a system to manage book inventory, user records, and issue/ 
+return operations
+• Automated tracking of book availability and user transactions for 
+efficient library management
